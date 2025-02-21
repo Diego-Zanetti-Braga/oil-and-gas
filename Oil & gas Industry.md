@@ -15,10 +15,16 @@ Amount of sulphur (pt: enxofre) content in the oil: Sour when >0.5 wt%, otherwis
 Natural gas is a combustible mixture os small-molecule hydrocarbons, ad is formed primarily of methane.
 A dry gas is composed by almost pure methane and a Wet when others hydrocarbons are present.
 
+# Energy value chain
+
+Upstream: Exploration and production
+Midstream: Transportation
+Downstream: Processing and distribution
+
 # Therms
 API: American Petroleum Institute.
 OPEC: Organization of Petroleum Exporting Countries
 IOC: International Oil Companies
 NOC: National Oil Companies
-OSC: OilField Services Companies (Halliburton is in this category)
+OSC: OilField Services Companies (Halliburton is in this category). They provide groundwork involved in fiding and extracting oil and gas.
 
