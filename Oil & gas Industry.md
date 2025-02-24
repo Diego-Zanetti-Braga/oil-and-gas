@@ -21,10 +21,20 @@ Upstream: Exploration and production
 Midstream: Transportation
 Downstream: Processing and distribution
 
+# Lifecycle of an Oil & Gas Field
+
+Exploration: Find Oil & Gas fields
+Appraisal (pt: Avaliação): Surveying and obtaining information about Oil & Gas reservois in order to decide whether or not to proceed with the development of a field. 
+Development: Planning phase. Assessing the production facilities and constructing the production platform.
+Production: Extraction of well fluids to the surface and preparing them for use in a refinery.
+Decommissioning: The and of a field when it is no longer economic for the operator to continue production.
+
+
 # Therms
 API: American Petroleum Institute.
 OPEC: Organization of Petroleum Exporting Countries
 IOC: International Oil Companies
 NOC: National Oil Companies
 OSC: OilField Services Companies (Halliburton is in this category). They provide groundwork involved in fiding and extracting oil and gas.
+
 
