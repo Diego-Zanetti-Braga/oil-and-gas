@@ -23,12 +23,31 @@ Downstream: Processing and distribution
 
 # Lifecycle of an Oil & Gas Field
 
-Exploration: Find Oil & Gas fields
-Appraisal (pt: Avaliação): Surveying and obtaining information about Oil & Gas reservois in order to decide whether or not to proceed with the development of a field. 
-Development: Planning phase. Assessing the production facilities and constructing the production platform.
-Production: Extraction of well fluids to the surface and preparing them for use in a refinery.
-Decommissioning: The and of a field when it is no longer economic for the operator to continue production.
+- Exploration: Find Oil & Gas fields. It's when wildcat wells are drilled (Exploration drolling).
+- Appraisal (pt: Avaliação): Surveying and obtaining information about Oil & Gas reservois in order to decide whether or not to proceed with the development of a field (Appraisal Drilling). 
+- Development: Planning phase. Assessing the production facilities and constructing the production platform.
+- Production: Extraction of well fluids to the surface and preparing them for use in a refinery (Production Drilling).
+- Decommissioning: The and of a field when it is no longer economic for the operator to continue production.
 
+# Seismic Surveys
+
+Seismic data is used to compare the data to a reservoir model and try to find potencial oil and gas reserves.
+
+# Drilling Rigs (Drilling Equipment/Platform)
+- Landrig
+- Fixed Platform (already in the whater)
+- Jack-up rig
+- Semi-submersible
+- Drillship
+- Tension Leg Platform
+
+# Drilling fluid (drilling mud)
+
+Is a fluid hat circulates through the drill string and back uo the annulus. It does the folowing purposes:
+- Clean the bit and rock face, increasing the bit penetration.
+- Coll the drill bit (pt: broca), extending the bit life.
+- Remove drilling debris (pt: detritos), by carrying it up the annulus and out of the hole to be treated and analysed by mud engineers. 
+- Exert (pt: exercer) backpressure on the formation, wich prevents hydrocarbonsfrom entering the well bore.
 
 # Therms
 API: American Petroleum Institute.
