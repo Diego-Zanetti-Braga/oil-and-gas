@@ -59,7 +59,7 @@ Is a fluid hat circulates through the drill string and back uo the annulus. It d
 
 |          |      Pressure      |  Temperature |
 |----------|:-------------:|------:|
-| Normal |  200 ~ 500 bar | $1600 |
+| Normal |  200 ~ 500 bar \| 20 ~ 50 MPA \| 2900 ~ 7250 PSI | $1600 |
 | High |   > 500 bar   |   $12 |
 
 
