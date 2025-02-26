@@ -57,7 +57,7 @@ Is a fluid hat circulates through the drill string and back uo the annulus. It d
 | High    | 500 bar        |
 
 
-| Tables   |      Are      |  Cool |
+|          |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
