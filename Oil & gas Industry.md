@@ -56,6 +56,13 @@ Is a fluid hat circulates through the drill string and back uo the annulus. It d
 | Normal  | 200 ~ 500 bar  |
 | High    | 500 bar        |
 
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 # Therms
 API: American Petroleum Institute.
 OPEC: Organization of Petroleum Exporting Countries
