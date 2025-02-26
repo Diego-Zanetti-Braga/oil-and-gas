@@ -52,7 +52,7 @@ Is a fluid hat circulates through the drill string and back uo the annulus. It d
 # Characteristics of a well
 
         | **Pressure**  | **Temperature**
-------------------|----------------
+----------------- | ---------------
 Normal  | 200 ~ 500 bar  |
 High    | 500 bar        |
 
