@@ -57,11 +57,11 @@ Is a fluid hat circulates through the drill string and back uo the annulus. It d
 | High    | 500 bar        |
 
 
-|          |      Are      |  Cool |
+|          |      Pressure      |  Temperature |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Normal |  200 ~ 500 bar | $1600 |
+| High |   > 500 bar   |   $12 |
+
 
 # Therms
 API: American Petroleum Institute.
