@@ -49,6 +49,13 @@ Is a fluid hat circulates through the drill string and back uo the annulus. It d
 - Remove drilling debris (pt: detritos), by carrying it up the annulus and out of the hole to be treated and analysed by mud engineers. 
 - Exert (pt: exercer) backpressure on the formation, wich prevents hydrocarbonsfrom entering the well bore.
 
+# Characteristics of a well
+
+        | **Pressure**  | **Temperature**
+------------------|----------------
+Normal  | 200 ~ 500 bar  |
+High    | 500 bar        |
+
 # Therms
 API: American Petroleum Institute.
 OPEC: Organization of Petroleum Exporting Countries
