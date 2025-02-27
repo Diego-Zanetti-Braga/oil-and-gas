@@ -47,7 +47,7 @@ Is a fluid hat circulates through the drill string and back uo the annulus. It d
 - Clean the bit and rock face, increasing the bit penetration.
 - Coll the drill bit (pt: broca), extending the bit life.
 - Remove drilling debris (pt: detritos), by carrying it up the annulus and out of the hole to be treated and analysed by mud engineers. 
-- Exert (pt: exercer) backpressure on the formation, wich prevents hydrocarbonsfrom entering the well bore.
+- Exert (pt: exercer) backpressure on the formation, wich prevents hydrocarbons from entering the wellbore.
 
 # Characteristics of a well
 
@@ -60,7 +60,11 @@ It is important to maintain pressure otherwise the water turns into hot steam, d
 
 # Perforation
 
-It creates 
+It creates a link between the wellbore and the producing formation by making holes between the casing and the cement sheath (pt: revestimento) tha surrounds it. 
+
+# Flow of fluids to the Platform
+
+The production pipe (tubing) is connected the well
 
 # Therms
 API: American Petroleum Institute.
