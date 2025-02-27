@@ -51,17 +51,16 @@ Is a fluid hat circulates through the drill string and back uo the annulus. It d
 
 # Characteristics of a well
 
-| xx | Pressure  | **Temperature** |
-| ----------------- | --------------- |
-| Normal  | 200 ~ 500 bar  |
-| High    | 500 bar        |
-
-
 |          |      Pressure      |  Temperature |
 |----------|:-------------:|------:|
-| Normal |  200 ~ 500 bar \| 20 ~ 50 mpa \| 2900 ~ 7250 psi | 120 ~ 170°C |
-| High |   > 500 bar \| > 50 mpa \| > 1250 psi |   > 170°C |
+| Normal |  200 ~ 500 bar \| 20 ~ 50 mpa \| 2900 ~ 7250 psi | 120 ~ 170°C \| 248 ~ 338°F |
+| High |   > 500 bar \| > 50 mpa \| > 1250 psi |   > 170°C \| > 338°F |
 
+It is important to maintain pressure otherwise the water turns into hot steam, damaging the equipment.
+
+# Perforation
+
+It creates 
 
 # Therms
 API: American Petroleum Institute.
